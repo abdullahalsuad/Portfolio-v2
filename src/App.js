@@ -1,8 +1,9 @@
+import Intro from "./Component/intro/intro/Intro";
 
 function App() {
   return (
     <div >
-      hello 
+     <Intro/>
     </div>
   );
 }
