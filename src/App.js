@@ -1,9 +1,11 @@
-import Intro from "./Component/intro/intro/Intro";
+import { About } from "./Component/about/About";
+import Intro from "./Component/intro/Intro";
 
 function App() {
   return (
     <div >
-     <Intro/>
+     <Intro />
+     <About />
     </div>
   );
 }
