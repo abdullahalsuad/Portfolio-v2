@@ -1,32 +1,40 @@
+import Img1 from "./img/abdullahalsuad.png";
+import Img2 from "./img/cryptodaddy.png";
+import Img3 from "./img/jakanaka-pizzabd.png";
+import Img4 from "./img/tesla-home.png";
+import Img5 from "./img/pokemon-evolution.png";
+import Img6 from "./img/cc-tracker.png";
+
+ 
 export const products = [
     {
       id: 1,
-      img: "https://forum.keyboardmaestro.com/uploads/default/original/3X/1/7/1721aed5d4fab0ce5d6af1301685a3ce0e16dd5e.png",
-      link: "http://lama.dev",
+      img: Img1,
+      link: "",
     },
     {
       id: 2,
-      img: "https://forum.keyboardmaestro.com/uploads/default/original/3X/1/7/1721aed5d4fab0ce5d6af1301685a3ce0e16dd5e.png",
+      img: Img2,
       link: "",
     },
     {
       id: 3,
-      img: './cc-tracker.png',
+      img: Img3,
       link: "",
     },
     {
       id: 4,
-      img: "",
+      img: Img4,
       link: "",
     },
     {
       id: 5,
-      img: "",
+      img: Img5,
       link: "",
     },
     {
       id: 6,
-      img: "",
+      img: Img6,
       link: "",
     },
   ];
