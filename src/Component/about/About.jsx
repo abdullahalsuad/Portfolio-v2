@@ -16,8 +16,7 @@ export const About = () => {
         <div className="a-right">
           <h1 className="a-title">About Me</h1>
           <p className="a-sub">
-            It is a long established fact that a reader will be distracted by the
-            readable content.
+           Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam inventore iure autem sequi ut unde dicta, doloribus quaerat aperiam, debitis at ex reprehenderit quod quibusdam quia quis vero, fugiat perferendis!
           </p>
           <p className="a-desc">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do

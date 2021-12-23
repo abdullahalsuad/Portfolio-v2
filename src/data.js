@@ -6,28 +6,28 @@ export const products = [
     },
     {
       id: 2,
-      img: "../src/img/abdullahalsuad.png",
-      link: "http://lama.dev",
+      img: "https://forum.keyboardmaestro.com/uploads/default/original/3X/1/7/1721aed5d4fab0ce5d6af1301685a3ce0e16dd5e.png",
+      link: "",
     },
     {
       id: 3,
-      img: "",
-      link: "http://lama.dev",
+      img: './cc-tracker.png',
+      link: "",
     },
     {
       id: 4,
       img: "",
-      link: "http://lama.dev",
+      link: "",
     },
     {
       id: 5,
       img: "",
-      link: "http://lama.dev",
+      link: "",
     },
     {
       id: 6,
       img: "",
-      link: "http://lama.dev",
+      link: "",
     },
   ];
 
